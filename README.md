@@ -5,5 +5,5 @@
 
 |레벨|바로가기|설명|
 |------|---|---|
-|LEVEL 0|[바로가기]()|:hammer:|
-|LEVEL 1|:hammer:|:hammer:|
+|Easy|[바로가기](https://github.com/CSHcode/LeetCode/tree/main/Easy)|:hammer:|
+|Normal|:hammer:|:hammer:|
