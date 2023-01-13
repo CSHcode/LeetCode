@@ -6,7 +6,4 @@ You may assume that each input would have exactly one solution, and you may not 
 You can return the answer in any order.
 
 #### :heavy_check_mark: 제한사항
-> * 2 <= nums.length <= 104
-> * -109 <= nums[i] <= 109
-> * -109 <= target <= 109
-> * Only one valid answer exists.
+> * -231 <= x <= 231 - 1
