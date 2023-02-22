@@ -5,5 +5,5 @@
 
 |레벨|바로가기|설명|
 |------|---|---|
-|Easy|[바로가기](https://github.com/CSHcode/LeetCode/tree/main/Easy)|:hammer:|
+|Easy|[바로가기](https://github.com/CSHcode/LeetCode/tree/main/Easy)|:hammer: 30문 대기중|
 |Medium|:hammer:|:hammer:|
